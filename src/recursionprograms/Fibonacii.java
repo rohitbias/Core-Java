@@ -1,9 +1,6 @@
-package recursionPrograms;
+package recursionprograms;
 
 //Recursion: is were one method is called inside of itself in order to produce a desired output.  
-
-//Fibonacii: is a series of numbers in which we add previous number to current number in order to get next number.
-//0 1 1 2 3 5 8...
 
 public class Fibonacii {
 

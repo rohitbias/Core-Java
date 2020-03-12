@@ -1,7 +1,16 @@
 package collectionframework;
-
 import java.util.ArrayList;
 import java.util.Iterator;
+
+/* List is an Interface which allows collection of homogeneous object to which allows duplicate
+ * and insertion order is preserved. The implementation classes of list are 
+ * ArrayList
+ * LinkedList
+ * Vector
+ * Stack
+ **/
+ 
+
 
 public class ArrayListExample {
 
